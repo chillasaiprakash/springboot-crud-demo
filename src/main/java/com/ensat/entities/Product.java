@@ -10,6 +10,8 @@ import java.math.BigDecimal;
 /**
  * Product entity.
  */
+
+
 @Entity
 @Getter
 @Setter
